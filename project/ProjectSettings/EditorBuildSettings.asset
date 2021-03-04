@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameMenu.unity
+    guid: abac1df31e1ceac4f870a66573ec2b38
+  - enabled: 1
+    path: Assets/Scenes/Message.unity
+    guid: a30d65443edbcb2459bbb3a95657573f
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: b52f2d198bb819a48991fd2ca9184804
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: 1b23412f04aff9740ad8bc57e10cd0ce
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 4fedd1c864aa3ad4999ec6a5b2210132
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: 2bd00e5d55fbc96438215f8086f24590
+  - enabled: 1
+    path: Assets/Scenes/Stage5.unity
+    guid: 2dfd1bb0d29ffaf468acea47d73fc4af
+  - enabled: 1
+    path: Assets/Scenes/Stage6.unity
+    guid: 23dc53c57c0e3354ca8ecc7dab4c3d33
+  - enabled: 1
+    path: Assets/Scenes/Stage7.unity
+    guid: c1b7d062ab72e464f8af7b94e157cadc
+  - enabled: 1
+    path: Assets/Scenes/Stage8.unity
+    guid: 3ee80005bb4da834199a1fdb54df73cc
+  - enabled: 1
+    path: Assets/Scenes/Stage9.unity
+    guid: c9b3f964992e5d347a9e704b5205c7a2
+  - enabled: 1
+    path: Assets/Scenes/Stage10.unity
+    guid: 5d0a4bbfb7371f44daa2c09102ae7684
+  - enabled: 1
+    path: Assets/Scenes/Stage11.unity
+    guid: bf4acaede5a1f9d449ecd50af1918eb3
+  - enabled: 1
+    path: Assets/Scenes/Stage12.unity
+    guid: d584b1687ebaed3449781bde5f2d92bb
+  - enabled: 1
+    path: Assets/Scenes/Stage13.unity
+    guid: 78897f12f05e13b49a2f175c7f2fd647
+  - enabled: 1
+    path: Assets/Scenes/Stage14.unity
+    guid: ac2a11c80a67b844fafc871904bc1b57
+  - enabled: 1
+    path: Assets/Scenes/Stage15.unity
+    guid: 4fe9acf833cea9948b59bb6c14b18491
+  - enabled: 1
+    path: Assets/Scenes/Stage16.unity
+    guid: 43220983870b76a469113eb0fd053a8b
+  - enabled: 1
+    path: Assets/Scenes/Stage17.unity
+    guid: 5128e6155f5640e4f9343810b14404f1
+  - enabled: 1
+    path: Assets/Scenes/Stage18.unity
+    guid: 10501ec793a50864fbd6f587c2ac3c2a
+  m_configObjects: {}
